@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-# ReAct Agent (Python)
-
+# ReAct Agent
 A simple ReAct (Reason + Act) agent built from scratch using OpenAI.
 
 ## What it does
-
 * Takes user input
 * Uses LLM to reason
 * Decides actions (tools)
